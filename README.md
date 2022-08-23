@@ -18,7 +18,7 @@
   About me
   </h2>
   <h7>
-      I’m Pedro, student of Information Technology at the Faculty of Technology of Itaquaquecetuba (FATEC), where I intend to evolve more and more as a technology professional and put my knowledge into practice to improve techniques.
+      I’m Pedro, student of Information Technology at the Faculty of Technology Center Paula Souza of Itaquaquecetuba (FATEC), where I intend to evolve more and more as a technology professional and put my knowledge into practice to improve techniques.
    </h7>
 </div>
 <br><br>
